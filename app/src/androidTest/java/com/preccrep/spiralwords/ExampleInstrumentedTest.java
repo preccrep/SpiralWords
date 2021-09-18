@@ -1,4 +1,4 @@
-package com.preccrep.myapplication;
+package com.preccrep.spiralwords;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.preccrep.myapplication", appContext.getPackageName());
+        assertEquals("com.preccrep.spiralwords", appContext.getPackageName());
     }
 }

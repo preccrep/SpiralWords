@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">SpiralWords</string>
+    <string name="login">ログイン</string>
+    <string name="register">とうろく</string>
 </resources>

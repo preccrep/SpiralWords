@@ -1,4 +1,4 @@
-package com.preccrep.myapplication;
+package com.preccrep.spiralwords;
 
 import androidx.appcompat.app.AppCompatActivity;
 
