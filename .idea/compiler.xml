@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8">
-      <module name="SpiralWords.app" target="11" />
-      <module name="SpiralWords.common" target="11" />
-      <module name="SpiralWords.common-ui" target="11" />
-      <module name="SpiralWords.di" target="11" />
-      <module name="SpiralWords.feature-toggles-impl" target="11" />
-      <module name="SpiralWords.privacy-config-impl" target="11" />
-      <module name="SpiralWords.privacy-config-store" target="11" />
-      <module name="SpiralWords.statistics" target="11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
