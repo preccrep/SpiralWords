@@ -2,4 +2,6 @@
     <string name="app_name">SpiralWords</string>
     <string name="login">ログイン</string>
     <string name="register">とうろく</string>
+    <string name="account_hint">Username</string>
+    <string name="pwd_hint">Password</string>
 </resources>
