@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/shape_big_login_btn.xml" value="0.21296296296296297" />
+        <entry key="app/src/main/res/drawable/shape_big_register_btn.xml" value="0.21296296296296297" />
+        <entry key="app/src/main/res/drawable/shape_login_btn.xml" value="0.21296296296296297" />
+        <entry key="app/src/main/res/drawable/shape_register_btn.xml" value="0.21296296296296297" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1431159420289855" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.1431159420289855" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1431159420289855" />
