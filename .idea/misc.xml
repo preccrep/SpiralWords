@@ -12,6 +12,20 @@
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.1431159420289855" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11727456940222898" />
+        <entry key="app/src/main/res/layout/activity_mycollect.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.11727456940222898" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/fragment_collect.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/fragment_my.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/fragment_news.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/fragment_video.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/item_mycollect_layout.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/item_video_layout.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/news_item_one.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/news_item_three.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/news_item_two.xml" value="0.1431159420289855" />
       </map>
     </option>
   </component>
